@@ -1,0 +1,14 @@
+[
+  {"title":"Miles Walked","subtitle":"miles","ranges":[150,225,300],"measures":[270,220],"markers":[250]},
+  
+  {"title":"Tracking Events","subtitle":"(count)","ranges":[40,80,120],"measures":[81,73],"markers":[56]},
+  
+  {"title":"Challenge Size","subtitle":"(players)","ranges":[350,500,600],"measures":[400,320],"markers":[250]},
+  
+  {"title":"Avg Team Size","subtitle":"(players)","ranges":[30,60,90],"measures":[55,89],"markers":[55]},
+  
+  {"title":"Socialization","subtitle":"(posts)","ranges":[20,40,60],"measures":[55,42],"markers":[44]},
+  
+  {"title":"Invitations","subtitle":"(count)","ranges":[3.5,4.25,5],"measures":[3.2,4.7],"markers":[4.4]}
+  
+]
